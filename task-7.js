@@ -140,3 +140,18 @@
 //         console.log(max);
 //     }
 // }
+
+
+// --------------------------------
+
+
+// --------------------------------
+
+
+// 5-ə qalıqsız bölünənləri consola çıxartmaq
+// let nums = [5, -3, 9, 0, 12, 20, -8, 13, 23];
+// for (let x = 0; x < nums.length; x++) {
+//     if (nums[x] % 5 == 0) {
+//         console.log(nums[x]);
+//     }
+// }
